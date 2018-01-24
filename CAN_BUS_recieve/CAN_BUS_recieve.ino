@@ -13,7 +13,7 @@
 #include <LiquidCrystal_I2C.h>
 #include <Wire.h>
 
-#include <mcp_can.h>
+#include <mcp_can.h>    //need mcp_can library which is in the CAN_BUS_Shield folder
 #include <SPI.h>
 
 #include <LED.h>
@@ -26,6 +26,8 @@ unsigned int frequency;           //for globaly storing frequency value sent via
 
 //-----LCD Configurations
 LiquidCrystal_I2C lcd(0x27, 2, 1, 0, 4, 5, 6, 7, 3, POSITIVE);  // Set the LCD I2C address
+//abrove code need newest LiquidCrystal_I2C library which is in the Newliquidcrystal_1.3.5 folder
+//your LiquidCrystal_I2C library might be outdated so there will be some errors while compiling the code
 #define lcdrefreshrate 500        //refresh rate of the LCD
 long unsigned lcd_refresh = 0;    //anti fast refresh timer
 
