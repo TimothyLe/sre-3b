@@ -1,7 +1,8 @@
 # General Info
 
 [Using the low voltage power supply](https://github.com/spartanracingelectric/SRE-2/raw/master/XHR-33-18%20Power%20Supply%20Instructions.docx)    
-*You can also scroll down*
+*You can also scroll down*  
+[Linduino 2026C tutorial](http://cds.linear.com/docs/en/demo-board-manual/dc2026cfe.pdf)  
 
 # SRE-2
 
