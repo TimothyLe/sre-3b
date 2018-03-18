@@ -1,0 +1,631 @@
+Please enter LTC6804 Command
+Write Configuration: 1
+Read Configuration: 2
+Start Cell Voltage Conversion: 3
+Read Cell Voltages: 4
+Start Aux Voltage Conversion: 5
+Read Aux Voltages: 6
+loop cell voltages: 7
+Please enter command: 
+
+2
+A PEC error was detected in the received data
+Received Configuration 
+ IC 1: 0xFF, 0xFF, 0xFF, 0xFF, 0xFF, 0xFF, Received PEC: 0xFF, 0xFF
+
+3
+cell conversion completed
+
+4
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+5
+aux conversion completed
+
+6
+A PEC error was detected in the received data
+ IC 1 GPIO-1:6.5535, GPIO-2:6.5535, GPIO-3:6.5535, GPIO-4:6.5535, GPIO-5:6.5535, Vref2:6.5535
+
+7
+transmit 'm' to quit
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
+A PEC error was detected in the received data
+ IC 1 C1:6.5535, C2:6.5535, C3:6.5535, C4:6.5535, C5:6.5535, C6:6.5535, C7:6.5535, C8:6.5535, C9:6.5535, C10:6.5535, C11:6.5535, C12:6.5535,
+
