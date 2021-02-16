@@ -17,7 +17,7 @@ extern Sensor Sensor_BenchTPS1;
 ****************************************************************************/
 TorqueEncoder* TorqueEncoder_new(bool benchMode)
 {
-    TorqueEncoder* me = (TorqueEncoder*)malloc(sizeof(struct _TorqueEncoder));
+    TorqueEncoder* me = (TorqueEncoder*) malloc(sizeof(struct _TorqueEncoder));
     //me->bench = benchMode;
 	
     //TODO: Make sure the main loop is running before doing this
@@ -43,20 +43,20 @@ TorqueEncoder* TorqueEncoder_new(bool benchMode)
     me->tps1->specMax = 5000 * .95 + 5000 * .006;
 
     //Default calibration values
-	//SRE-3 sensor
-	me->tps0_calibMin = 300;  //me->tps0->sensorValue;
-	me->tps0_calibMax = 1235;  //me->tps0->sensorValue;
-	me->tps1_calibMin = 2824;  //me->tps1->sensorValue;
-	me->tps1_calibMax = 3758;  //me->tps1->sensorValue;
+    //SRE-3 sensor
+    me->tps0_calibMin = 1117;  //me->tps0->sensorValue;
+    me->tps0_calibMax = 2304;  //me->tps0->sensorValue;
+    me->tps1_calibMin = 2824;  //me->tps1->sensorValue;
+    me->tps1_calibMax = 3758;  //me->tps1->sensorValue;
 
-	//SRE-2 sensor default calibrations
-	//me->tps0_calibMin = 1117;  //me->tps0->sensorValue;
-	//me->tps0_calibMax = 2304;  //me->tps0->sensorValue;
-	//me->tps1_calibMin = 2702;  //me->tps1->sensorValue;
-	//me->tps1_calibMax = 3890;  //me->tps1->sensorValue;
+    //SRE-2 sensor default calibrations
+    //me->tps0_calibMin = 1117;  //me->tps0->sensorValue;
+    //me->tps0_calibMax = 2304;  //me->tps0->sensorValue;
+    //me->tps1_calibMin = 2702;  //me->tps1->sensorValue;
+    //me->tps1_calibMax = 3890;  //me->tps1->sensorValue;
 
     //Alternate SRE-2
-    //me->tps0_calibMin = 558;  //me->tps0->sensorValue;
+    //me->tps0_calibMin = 558;   //me->tps0->sensorValue;
     //me->tps0_calibMax = 2649;  //me->tps0->sensorValue;
     //me->tps1_calibMin = 2382;  //me->tps1->sensorValue;
     //me->tps1_calibMax = 4441;  //me->tps1->sensorValue;
@@ -101,7 +101,6 @@ void TorqueEncoder_update(TorqueEncoder* me)
 			//Percent = (Voltage - CalibMin) / (CalibMax - CalibMin)
 			me->tps0_percent = getPercent(me->tps0_value, me->tps0_calibMin, me->tps0_calibMax, TRUE);
 			me->tps1_percent = getPercent(me->tps1_value, me->tps1_calibMin, me->tps1_calibMax, TRUE);
-
 			me->percent = (me->tps0_percent + me->tps1_percent) / 2;
 		}
 	}
@@ -110,7 +109,6 @@ void TorqueEncoder_update(TorqueEncoder* me)
 void TorqueEncoder_resetCalibration(TorqueEncoder* me)
 {
     me->calibrated = FALSE;
-    
     //Normal
     me->tps0_calibMin = me->tps0->sensorValue;
     me->tps0_calibMax = me->tps0->sensorValue;
@@ -188,7 +186,6 @@ void TorqueEncoder_calibrationCycle(TorqueEncoder* me, ubyte1* errorCount)
 			me->runCalibration = FALSE;
 			me->calibrated = TRUE;
 			Light_set(Light_dashTCS, 0);
-
         }
 
     }
@@ -247,6 +244,6 @@ void TorqueEncoder_getPedalTravel(TorqueEncoder* me, ubyte1* errorCount, float4*
     //    }
     //    else
     //    {
-    //return (TPS0PedalPercent + TPS1PedalPercent) / 2;
+    //        return (TPS0PedalPercent + TPS1PedalPercent) / 2;
     //    }
 }

@@ -32,14 +32,13 @@
 # Debug files
 *.dSYM/
 
-#Rusty's VS Folder
+#Rusty's Folder
 SRE2
 
 #VCU build files
 AddAPDB.html
 build/*
-#!build/main.hex
+!build/main.hex
 
 release/*
-cc3232a
-cc12248a
+cc*a
